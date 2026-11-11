@@ -19,10 +19,9 @@
   background-color: DodgerBlue;
 }
 
-.picture-gallery div {
+.picture-gallery img {
   width: 100px;
   margin: 10px;
   padding: 10px;
-  text-align: center;
-  font-size: 30px;
+  
 }
