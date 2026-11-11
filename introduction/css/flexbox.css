@@ -18,3 +18,11 @@
   flex-wrap: wrap;
   background-color: DodgerBlue;
 }
+
+.picture-gallery div {
+  width: 100px;
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+  font-size: 30px;
+}
