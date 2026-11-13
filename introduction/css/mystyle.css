@@ -1,8 +1,18 @@
 body {
-  background-color: lightblue;
+  background-color: lightskyblue;
 }
 
 h1 {
-  color: navy;
   margin-left: 20px;
+  font-family: 'Times New Roman', Times, serif;
 }
+
+p {
+  font-family: 'Times New Roman', Times, serif;
+  color: whitesmoke;
+}
+
+div {
+  background-color: navy;
+}
+
